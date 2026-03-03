@@ -24,6 +24,13 @@ Definir un flujo único, realista y verificable para evitar estados inconsistent
    - Eventos únicos, sin duplicidad.
    - Cliente recibe mínimo necesario; interno recibe detalle operativo.
 
+## Política QR (obligatoria)
+- En soft-hold se puede generar QR provisional vinculado a TTL.
+- Solo el QR de reserva **confirmada** habilita check-in definitivo.
+- Si reserva expira/cancela, QR queda inválido automáticamente.
+- En confirmación final se asegura token/estado QR consistente.
+- El check-in debe registrar trazabilidad (timestamp + resultado + reserva).
+
 ## Reglas duras de bloqueo
 - No confirmar venta sin reserva válida.
 - No confirmar reserva definitiva sin abono mínimo.
