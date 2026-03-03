@@ -8,15 +8,23 @@ assignees: []
 
 ## Objetivo
 
-## Alcance
-- 
+## Alcance (qué sí / qué no)
+- Sí:
+- No:
 
 ## Criterios de aceptación
 - [ ]
 
-## Evidencia requerida
-- [ ]
+## Plan de ejecución
+- [ ] Paso 1
+- [ ] Paso 2
+- [ ] Paso 3
 
-## Riesgos
+## Evidencia requerida
+- [ ] Commit(s)
+- [ ] Prueba reproducible
+- [ ] Resultado observable (log/captura/salida)
+
+## Riesgos / límites conocidos
 
 ## Dependencias
