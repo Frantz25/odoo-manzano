@@ -1,4 +1,4 @@
-# F3.2 — Portal Cliente (mínimo seguro)
+# F3.2 — Portal Cliente
 
 ## Objetivo
 Habilitar portal para cliente con aceptación de políticas y visibilidad mínima operativa.
@@ -8,6 +8,8 @@ Habilitar portal para cliente con aceptación de políticas y visibilidad mínim
 - Fechas (entrada/salida)
 - QR de check-in (según estado)
 - Estado de reserva
+- sus cotizaciones
+- sus facturas pagadas
 
 ## Qué NO ve el cliente
 - Totales internos/comerciales globales
@@ -15,7 +17,7 @@ Habilitar portal para cliente con aceptación de políticas y visibilidad mínim
 - Datos de gestión interna
 
 ## Reglas obligatorias
-1. Aceptación de políticas requerida antes de confirmación final.
+1.  mostrar las politicas y Aceptación de políticas requerida antes de confirmación final.
 2. Acceso por token/portal seguro al registro propio.
 3. Si reserva no está confirmada, QR no puede habilitar ingreso definitivo.
 
