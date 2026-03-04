@@ -7,6 +7,7 @@ Instalar y validar **un módulo a la vez**:
 4. cer_booking
 5. cer_documents
 6. cer_communications
+7. cer_portal
 
 Comando base:
 ```bash
